@@ -1,7 +1,7 @@
 # WCC Academy 2022 Homework
 Create Cars Vertical search form reusing KAYAK styling: https://www.kayak.com/cars
 
-Homework consist of **Back-End** anf **Front-End** tasks.
+Homework consist of **Back-End** and **Front-End** tasks.
 
 Full task description can be found here: https://docs.google.com/document/d/17Z5n83J3I18Ek10uiNa9zrtnChtUwlLiQkphxGToKjo/edit?usp=sharing
 
