@@ -1,5 +1,5 @@
-I was just checking myself whether I am capable to do homework of KAYAK academy. Introduced search that filters results below. I did not read the full task in the document (as I noticed it too late), therefore the homework itself and styles are not the same.
-![Užduotis](homework.png?raw=true "Namų darbas")
+I was just checking myself whether I am capable to do homework of KAYAK academy. Introduced search that filters results below. I did not read the full task in the document (as I noticed it too late), therefore the homework itself and styles are not the same. Picture below.
+![Užduotis](kayakHomework.gif?raw=true "Namų darbas")
 
 # WCC Academy 2022 Homework
 Create Cars Vertical search form reusing KAYAK styling: https://www.kayak.com/cars
