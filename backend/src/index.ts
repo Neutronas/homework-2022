@@ -21,12 +21,9 @@ app.get("/greeting", (req, res) => {
 });
 
 /**
- * TODO: Add your autocomplete endpoint below this component
- */
-/**
- * Example endpoint
+ * Autocomplete endpoint.
  *  consumes: query parameter "title"
- *  returns: a JSON response
+ *  returns: a JSON response of max 10 entries
  */
 app.get("/autocomplete", (req, res) => {
     const limit = 10;
