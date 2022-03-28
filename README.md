@@ -1,3 +1,8 @@
+#Lukas Ružauskas
+Tiesiog tikrinausi savo žinias :). Nedariau aš completerio pagal task.
+Padariau search'ą, kuris atfiltruoja rezultatus (max 10).
+![Užduotis](homework.png?raw=true "Namų darbas")
+
 # WCC Academy 2022 Homework
 Create Cars Vertical search form reusing KAYAK styling: https://www.kayak.com/cars
 
