@@ -6,7 +6,6 @@ interface inputProps {
     name: string;
     onChange(text: string): void;
     placeholder?: string;
-    icon?: string;
 }
 
 const InputField = (props: inputProps) => {
