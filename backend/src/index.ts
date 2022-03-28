@@ -2,14 +2,19 @@ import express from "express";
 
 const app = express();
 const port = 3001;
+const cors = require("cors");
+
 const fs = require("fs");
 const path = require("path");
+app.use(cors());
 
 app.get("/", (_req, res) => {
     res.send(
         "<h1>Congratulations 🎉 You got the WCC 2022 backend server running. Good luck with your task 🙌</h1>"
     );
 });
+
+app.use(cors());
 
 /**
  * Example endpoint
