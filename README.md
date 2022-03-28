@@ -1,6 +1,4 @@
-#Lukas Ružauskas
-Tiesiog tikrinausi savo žinias :). Nedariau aš completerio pagal task.
-Padariau search'ą, kuris atfiltruoja rezultatus (max 10).
+I was just checking myself whether I am capable to do homework of KAYAK academy. Introduced search that filters results below. I did not read the full task in the document (as I noticed it too late), therefore the homework itself and styles are not the same.
 ![Užduotis](homework.png?raw=true "Namų darbas")
 
 # WCC Academy 2022 Homework
